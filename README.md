@@ -1,2 +1,2 @@
 # Hey
-Front-end Developer || HTML ,CSS, Bootstrap, JavaScript. Email me for freelance projects
+Front-end Developer || HTML ,CSS, Bootstrap, JavaScript.
