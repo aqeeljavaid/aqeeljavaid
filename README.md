@@ -1,2 +1,2 @@
-# Hey
-Front-end Developer || HTML ,CSS, Bootstrap, JavaScript.
+# Hello ☺️
+I am an experienced Front-end Developer with a flair for creating elegant designs in the least amount of time. Self-motivated professional with overall 7+ years with a demonstrated history of working in the IT Industry. 3+ years of experience in Web Front-end Development and 4 years of experience in Game Development. Deep knowledge and proficiency in JavaScript, HTML, CSS, PHP, Bootstrap, Tailwind CS , Laravel , SQL database and mobile responsive website development. Versed in the production of high-quality solutions for the company’s clients. Regular attendee of web developer meetups and hackathons.
