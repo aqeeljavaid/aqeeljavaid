@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqeeljavaid" alt="aqeeljavaid" /></a> </p>
 
-- 💬 Ask me about **Next.js , React.js , Laravel**
+- 💬 Ask me about **React.js , Next.js , Laravel**
 
 - 📫 How to reach me **iaqeeljavaid@gmail.com**
 
